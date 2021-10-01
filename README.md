@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeutronLaser
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development skills to share :)
 - 📫 How to reach me bionluk.com/alperremirr - fiverr.com/alperremirr - freelancer.com/u/KryptonDesign
 
 <!---
